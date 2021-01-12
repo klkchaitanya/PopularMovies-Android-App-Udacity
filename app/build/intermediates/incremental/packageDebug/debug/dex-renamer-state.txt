@@ -1,0 +1,4 @@
+#Mon Jan 11 20:48:33 EST 2021
+base.0=E\:\\SOFTWARES\\GIT_REPOSITORIES\\AndroidStudioProjects\\PopularMovies-Android-App-Udacity\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

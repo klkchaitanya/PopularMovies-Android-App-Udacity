@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Udacity Movies</string>
+
+    <string name="movies_popular">POPULAR</string>
+    <string name="movies_top">TOP_RATED</string>
+
+    <string name="movie_synopsis">SYNOPSIS : </string>
+    <string name="movie_rating">RATING : </string>
+    <string name="movie_release">RELEASED ON : </string>
+    <string name="movie_na">N/A</string>
+    <string name="movie_trailers">TRAILERS : </string>
+    <string name="movie_reviews">REVIEWS :</string>
+
+    <string name="review_author">Author : </string>
+    <string name="review_content">Content : </string>
+        <string name="review_url">URL : </string>
+
+    <string name="hiphen">---</string>
+
+    <string name="movie_db_api_key">--PASTE YOUR API KEY HERE---</string>
+
+</resources>
